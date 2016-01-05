@@ -1,0 +1,20 @@
+{
+  "name": "babel-ie10-polyfill",
+  "version": "0.0.1",
+  "description": "fix extends in ie<=10 when babel's version is over 6.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "babel",
+    "ie10",
+    "polyfill"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qinyang912/babel-ie10-polyfill.git"
+  },
+  "author": "qinyang",
+  "license": "ISC"
+}
